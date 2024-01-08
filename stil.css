@@ -57,7 +57,7 @@ ul li a:hover {
 
 .title .navbar-logo {
   position: absolute;
-  top: 20%;
+  top: 10%;
   left: 29%;
   font-size: 6rem;
   font-weight: 900;
@@ -71,7 +71,7 @@ ul li a:hover {
 
 .but0 {
   position: absolute;
-  top: 40%;
+  top: 20%;
   left: 40%;
   transform: translate(-50%-50%);
   font-size: 15;
