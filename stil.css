@@ -59,7 +59,7 @@ ul li a:hover {
 
 .title .navbar-logo {
   position: absolute;
-  top: 5%;
+  top: 50%;
   left: 30%;
   font-size: 6rem;
   font-weight: 900;
@@ -73,7 +73,7 @@ ul li a:hover {
 
 .but0 {
   position: absolute;
-  top: 20%;
+  top: 60%;
   left: 30%;
   transform: translate(-50%-50%);
   font-size: 15;
@@ -137,10 +137,11 @@ ul li a:hover {
   transition: 0.6s ease;
   border-radius: 30px;
   margin: 10px;
+  background-color: #6d534e;
 }
 
 .btn1:hover {
-  background-color: #F57E20;
+  background-color: #6d1b16;
   color: #fff;
 }
 
