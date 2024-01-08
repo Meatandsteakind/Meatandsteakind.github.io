@@ -87,7 +87,7 @@ ul li a:hover {
 
 .but1 {
   position: absolute;
-  top: 50%;
+  top: 42%;
   left: 45%;
   transform: translate(-50%-50%);
   font-size: 13;
@@ -95,7 +95,7 @@ ul li a:hover {
 
 .but2 {
   position: absolute;
-  top: 60%;
+  top: 45%;
   left: 45%;
   transform: translate(-50%-50%);
   font-size: 13;
@@ -103,7 +103,7 @@ ul li a:hover {
 
 .but3 {
   position: absolute;
-  top: 70%;
+  top: 47%;
   left: 45%;
   transform: translate(-50%-50%);
   font-size: 13;
@@ -112,7 +112,7 @@ ul li a:hover {
 
 .but4 {
   position: absolute;
-  top: 80%;
+  top: 49%;
   left: 45%;
   transform: translate(-50%-50%);
   font-size: 13;
@@ -120,7 +120,7 @@ ul li a:hover {
 
 .but5 {
   position: absolute;
-  top: 90%;
+  top: 51%;
   left: 45%;
   transform: translate(-50%-50%);
   font-size: 13;
