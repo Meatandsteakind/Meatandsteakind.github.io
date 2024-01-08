@@ -137,6 +137,11 @@ ul li a:hover {
   margin: 10px;
 }
 
+.btn1:hover {
+  background-color: #F57E20;
+  color: #fff;
+}
+
 .btn6 {
   position: relative;
   border: 1px solid #fff;
