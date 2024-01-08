@@ -30,6 +30,7 @@ ul li {
   display: inline-block;
 }
 ul li a {
+  top : 5%;
   text-decoration: none;
   color: #fff;
   padding: 15px 30px;
