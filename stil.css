@@ -121,14 +121,22 @@ ul li a:hover {
   font-size: 20;
 }
 
+.but8 {
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%-50%);
+  font-size: 20;
+}
+  
 .btn1 {
   position: absolute;
   border: 3px solid #fff;
-  padding: 10px 10px;
+  padding: 10px 50px;
   color: #fff;
   text-decoration: none;
   transition: 0.6s ease;
-  border-radius: 10px;
+  border-radius: 20px;
   margin: 10px;
   background-color: #6d534e;
 }
